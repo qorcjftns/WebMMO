@@ -1,0 +1,20 @@
+{
+  "name": "webmmo",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+	"start": "node server/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://qorcjftns:Cjftns119@@github.com/qorcjftns/WebMMO.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qorcjftns/WebMMO/issues"
+  },
+  "homepage": "https://github.com/qorcjftns/WebMMO#readme"
+}
